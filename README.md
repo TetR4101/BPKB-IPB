@@ -43,9 +43,22 @@ Klik Start All
 buka terminal laragon
 
 2. Mengeclone repository
-       git clone https://github.com/Daulyoi/orlin-farm-rpl.git
-    cd orlin-farm-rpl
-4. 
+clone link berikut dengan mengetik pada terminal :git clone https://github.com/jordanvieno/Project-RPL-Kelompok-6.git , 
+kemudian ketik cd Project-RPL-Kelompok-6
+
+3. ketik pada terminal composer install
+4. Cari folder .env pada folder laravel kalian dan configure menjadi
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=your_database_name
+    DB_USERNAME=your_username
+    DB_PASSWORD=your_password
+
+5. Ketik pada terminal php artisan storage:link
+6. Ketika npm install , kemudian npm run dev
+7. Kemudian ketika, php artisan serve
+8. Buka pada browser http://http://127.0.0.1:8000/
 
 
 
