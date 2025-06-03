@@ -29,3 +29,23 @@ Activity Diagram
 
 ![WhatsApp Image 2025-06-03 at 07 53 44_07fcb7dc](https://github.com/user-attachments/assets/7863e0d6-5bd8-44c4-ac29-684caa50e304)
 
+Requierment untuk Menginstall :
+PHP >= 8.3
+MySQL 8.0
+Apache >= 2.4
+Laragon
+
+Installasi :
+1. Menginstall Laragon 
+Buka laragon
+Pastikan bahwa versi sudah sesuai
+Klik Start All
+buka terminal laragon
+
+2. Mengeclone repository
+       git clone https://github.com/Daulyoi/orlin-farm-rpl.git
+    cd orlin-farm-rpl
+4. 
+
+
+
